@@ -7,7 +7,9 @@ const Header = (props)=>{
       backgroundColor: 'blue',
       height:'5vh',
       textAlign:'center'
-    }}>MY HEADER</header>
+    }}>
+      <h3>MY HEADER</h3>
+    </header>
   )
 }
 

@@ -2,3 +2,43 @@
   display:flex;
   flex-direction: row;
 }
+
+.bodyContainer {
+  display:flex;
+  flex-direction: column;
+
+}
+
+.square {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly
+
+}
+.img{
+  width: 350px;
+  height: 300px;
+}
+
+.blue{
+  background-color: blue;
+}
+.orange{
+  background: orange;
+}
+.purple{
+  background-color: purple;
+}
+.white{
+  background-color: white;
+}
+
+.foot{
+  display:flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.footleft{
+  margin-right: 40%;
+}
